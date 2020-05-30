@@ -25,6 +25,8 @@ func selectSort(nums[]int)[]int{
 	}
 	return nums
 }
+
+
 func main(){
 	nums :=[]int{4,12,13,4,3,42,33,1,43,44}
 	fmt.Println("排序前：")
